@@ -1,0 +1,15 @@
+<a href="#"> </a>					--> dead link v anchore
+#contacts						--> relatívna cesta(v css treba tie poui #)
+<input type="text"(*required)>				--> pole na vloenie textu(*povinné)
+<input type="radio" checked>				--> zaškrtnuté zaškrtávacie pole ako default
+<form>							--> formuláre html 
+<form  id="cat-photo-form">				--> id pre formulár(!id v css treba definova relatívne pomocou #)
+<p>&nbsp</p>						--> prázdny riadok
+
+padding: 10px 20px 10px 20px;				--> hodinovo orientované hodnoty = top, right, bottom, left
+*a:hover{}						--> prídavná monos v css aby sa po prejdení myšou po *anchore zmenili jeho vlastnosti
+...position: relative;
+   *top: 10px;						--> zmena relatívnej pozície(*10 pixelov od hora)
+...margin: auto;					--> pomocou marginu sa automaticky zarovnáva danı element
+...transform: skewX/Y(32deg)				--> transformacia elementu v osi X/Y o 32 stupòov
+@keyframe						--> pridávanie interakcií s objektmi

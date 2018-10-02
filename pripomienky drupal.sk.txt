@@ -1,0 +1,6 @@
+Leaf v súbore about-thunder
+ - necha tak ako je alebo ho zmeni pre stránku about thunder?
+
+Èo s kódom pre stránku thunder?
+ - je potrebné ho upravi a <style> da do súboru css?
+ - to isté ako v predchádzajúcom Leaf?
